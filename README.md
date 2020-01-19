@@ -13,4 +13,4 @@ AutoMapper-sample
 
 ## Related Blog (Written in Japanese)
 
-- 
+- [C# + AutoMapperで、ArrayListをオブジェクトへマッピングする - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/01/20/082819)
